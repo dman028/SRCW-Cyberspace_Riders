@@ -1,8 +1,9 @@
 {
   "name": "Cyberspace_Riders",
-  "version": "0.1",
+  "version": "0.2",
   "author": "dman028or853",
   "mod_type": "pak",
+  "mod_page": "https://gamebanana.com/sounds/84225",
   "pak_data": {
     "pak_files": [
       {
