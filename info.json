@@ -1,0 +1,39 @@
+{
+  "name": "Cyberspace_Riders",
+  "version": "0.1",
+  "author": "dman028or853",
+  "mod_type": "pak",
+  "pak_data": {
+    "pak_files": [
+      {
+        "file_name": "mod.pak",
+        "file_path": "mod.pak",
+        "file_count": 2,
+        "total_size": 33385748,
+        "mount_point": "",
+        "files": [
+          "UNION/Content/CriWareData/BGM_STG2017.acb",
+          "UNION/Content/CriWareData/BGM_STG2017.awb"
+        ]
+      }
+    ],
+    "files_index": [
+      {
+        "path": "UNION/Content/CriWareData/BGM_STG2017.acb",
+        "size": 247584,
+        "compressed_size": null,
+        "offset": 0,
+        "archive": null
+      },
+      {
+        "path": "UNION/Content/CriWareData/BGM_STG2017.awb",
+        "size": 33138164,
+        "compressed_size": null,
+        "offset": 247637,
+        "archive": null
+      }
+    ],
+    "total_files": 2,
+    "total_size": 33385748
+  }
+}
